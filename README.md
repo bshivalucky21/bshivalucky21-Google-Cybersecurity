@@ -15,17 +15,3 @@ All content is educational and sanitized. No real company confidential data is i
 
 ## Author
 B Shiva Prasad • London, UK
-
-
-google-cybersecurity-portfolio/
-├─ README.md
-├─ 01-controls-and-compliance-checklist-botium-toys/
-│  ├─ README.md
-│  ├─ completed/
-│  │  └─ Controls-and-compliance-checklist.docx
-│  └─ provided-course-materials/
-│     ├─ Botium-Toys-Scope-goals-and-risk-assessment-report.docx
-│     ├─ Audit-Scope-and-Goals.docx
-│     └─ Control-categories.docx
-└─ templates/
-   └─ README.md
