@@ -1,20 +1,16 @@
 # Google Cybersecurity Portfolio
 
-This repository contains my learning portfolio and completed artifacts from the **Google Cybersecurity Professional Certificate**.
+This repository contains my learning portfolio from the **Google Cybersecurity Professional Certificate**.
 
-## What you'll find here
-- Security audits & compliance checklists
-- Risk assessments & recommendations
-- Incident response notes and templates (as I progress)
-- Clear documentation and sanitized evidence
+## What this repo includes
+- Completed course artifacts (checklists, writeups, summaries)
+- Clear documentation of what I did, what evidence I used, and what I learned
+- Reference materials are labeled as course-provided
 
 ## Projects
-### 01 — Security Audit: Botium Toys
-Location: `01-security-audit-botium-toys/`  
-Deliverables include audit scope/goals, risk assessment, control categories reference, and the controls & compliance checklist.
-
-## Notes
-All content is educational and sanitized. No real client/company confidential data is included.
+### 01 — Controls & Compliance Checklist (Botium Toys)
+Folder: `01-controls-and-compliance-checklist-botium-toys/`  
+Deliverable: Completed controls and compliance checklist + recommendations summary.
 
 ## Author
-B Shiva Prasad (London, UK)
+B Shiva Prasad • London, UK
